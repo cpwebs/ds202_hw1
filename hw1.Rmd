@@ -3,7 +3,6 @@ title: "hw1"
 author: "Cole Weber; cpwebs"
 date: "January 14, 2020"
 output:
-  pdf_document: default
   html_document: default
 ---
 
