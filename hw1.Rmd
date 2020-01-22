@@ -1,0 +1,27 @@
+---
+title: "hw1"
+author: "Cole Weber; cpwebs"
+date: "January 14, 2020"
+output:
+  pdf_document: default
+  html_document: default
+---
+
+```{r}
+version
+```
+
+## R Markdown
+
+__Jobs and data science:__
+Although data science is a relatively new field, it is becoming more and more applicable to all jobs in our world. The first that comes to my mind is business analytics. A job like this helps the business decide what is profitable and what is not. The employee uses data and their undestanding of it to make predictions for the future, what's currently happening, and what has happened. Resources to find more information about business analytics can be found from either <https://www.ivybusiness.iastate.edu/masters/business-analytics/> or _Data Analytics: The Ultimate Beginner's Guide to Data Analytics_ . Below is an image that represents a business analyst from <https://www.zarantech.com/blog/why-its-great-time-to-be-business-analyst/> .
+
+![Business Analyst](../ds202_hw1/bam.png)
+The version of git is 2.25.0.windows.1
+
+The user name is Cole Weber
+
+The user email is cweber22@iastate.edu
+
+Github account: cpwebs
+
