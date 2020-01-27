@@ -1,0 +1,11 @@
+---
+title: "R Notebook"
+output:
+  html_document:
+    df_print: paged
+---
+
+Juan Simons, Github: Giltbuckle3
+
+Most recent commit was 5 days ago. Commit ID: 9a4fc1f
+
